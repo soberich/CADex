@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/vertshader.glsl</file>
+        <file>Shaders/fragshader.glsl</file>
+        <file>scr/tetraedr.jpg</file>
+        <file>scr/octaedr.jpg</file>
+        <file>scr/ikosaedr.jpg</file>
+        <file>scr/hexsaedr.jpg</file>
+        <file>scr/cube.jpg</file>
+        <file alias="background.png">scr/background.png</file>
+        <file>scr/parallelepiped.gif</file>
+    </qresource>
+</RCC>
